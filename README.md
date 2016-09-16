@@ -1,4 +1,4 @@
 # HelloWorld
 Some description
-* Item 1
-* Item 2
+
+This is some filler content so that I have something to commit.
